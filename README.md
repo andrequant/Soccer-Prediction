@@ -1,2 +1,2 @@
 # Soccer-Prediction
- A simple model for predicting soccer outcomes
+ A (not so) simple, yet powerful, model for predicting soccer outcomes
